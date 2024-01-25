@@ -1,6 +1,5 @@
 # Sports_Retail_Revenue_SQL
 
-# SQL-Project-2
 
 # Optimizing Online Sports Retail Revenue
 
